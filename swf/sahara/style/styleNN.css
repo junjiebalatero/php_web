@@ -1,0 +1,219 @@
+BODY {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+font-style : normal; 
+color : #000000; 
+background-color : #666666; 
+} 
+a:link {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+font-style : normal; 
+color : #000000; 
+text-decoration : underline; 
+} 
+a:visited {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+font-style : normal; 
+color : #000000; 
+text-decoration : underline;
+}
+a:hover {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+color : #ff0000; 
+text-decoration : none; 
+background-color : #f7f6e6; 
+} 
+a:active {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+color : #000000; 
+text-decoration : underline; 
+}
+INPUT {
+background-color : #f7f6e6; 
+color : #000000; 
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-weight : normal;
+text-indent : 2px;  
+}
+SELECT {
+background-color : #f7f6e6; 
+color : black; 
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-weight : bold;
+}
+TEXTAREA {
+FONT-FAMILY: Arial, Helvetica, sans-serif; 
+FONT-SIZE: 10px;
+background-color : #f7f6e6; 
+font-weight : bold; 
+text-indent : 2px;
+}
+.blackback {
+background-color : #000000; 
+} 
+.pn-title {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 14px; 
+font-weight : bold; 
+color : #cc0000; 
+}
+.pn-title a:link {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 14px; 
+font-weight : bold; 
+color : #cc0000; 
+text-decoration : underline; 
+} 
+.pn-title a:visited {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 14px; 
+font-weight : bold; 
+color : #cc0000; 
+text-decoration : underline;
+}
+.pn-title a:hover {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 14px; 
+color : #ff0000;
+font-weight : bold; 
+text-decoration : none; 
+background-color : #f7f6e6; 
+} 
+.pn-title a:active {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 14px;
+font-weight : bold; 
+color : #000000; 
+text-decoration : underline; 
+}
+.pn-pagetitle {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 15px; 
+font-weight : bold; 
+color : #cc0000; 
+text-decoration : underline;
+} 
+.pn-normal {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+font-style : normal; 
+font-weight : normal; 
+} 
+.greytop {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+font-style : normal; 
+font-weight : normal; 
+color : #cc9933; 
+background-color : #cccccc; 
+} 
+.marronclair {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+background-color : #ffcc66; 
+height : 40px; 
+} 
+.Marronfonce {
+background-color : #cc9933; 
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 18px; 
+font-weight : bolder; 
+} 
+.marronclair2 {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+font-weight : bold; 
+color : #000000; 
+}
+.blackline {
+background-image : url(/themes/sahara/images/line.gif); 
+background-repeat : repeat-y; 
+}
+.formbut {
+background-color : #cc9933; 
+color : #ffffff; 
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-weight : bold; 
+}
+.pn-sub {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-weight : bold; 
+color : #000000; 
+}
+.pn-sub a:link {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-style : normal; 
+color : #000000; 
+text-decoration : underline; 
+} 
+.pn-sub a:visited {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-style : normal; 
+color : #000000; 
+text-decoration : underline;
+}
+.pn-sub a:hover {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+color : #ff0000; 
+text-decoration : none; 
+background-color : #f7f6e6; 
+} 
+.pn-sub a:active {
+font-family : Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+color : #000000; 
+text-decoration : underline; 
+}
+.pn-logo {
+BACKGROUND: none; 
+COLOR: #cc0000; 
+FONT-SIZE: 16px; 
+FONT-WEIGHT: bold; 
+FONT-FAMILY: Arial, Helvetica, sans-serif;  
+TEXT-DECORATION: none;
+}
+
+A.pn-logo:link {
+BACKGROUND: none; 
+COLOR: #cc0000; 
+FONT-SIZE: 16px; 
+FONT-WEIGHT: bold; 
+FONT-FAMILY: Arial, Helvetica, sans-serif;  
+TEXT-DECORATION: none;
+}
+A.pn-logo:visited {
+BACKGROUND: none; 
+COLOR: #cc0000; 
+FONT-SIZE: 16px; 
+FONT-WEIGHT: bold; 
+FONT-FAMILY: Arial, Helvetica, sans-serif;  
+TEXT-DECORATION: none;
+}
+A.pn-logo:hover	{
+BACKGROUND: none; 
+COLOR: #cc0000; 
+FONT-SIZE: 16px; 
+FONT-WEIGHT: bold; 
+FONT-FAMILY: Arial, Helvetica, sans-serif; 
+TEXT-DECORATION: none;
+background-color : #FFFFFF;
+}
+A.pn-logo:active {
+BACKGROUND: none; 
+COLOR: #cc0000;
+FONT-SIZE: 16px; 
+FONT-WEIGHT: bold; 
+FONT-FAMILY: Arial, Helvetica, sans-serif;  
+TEXT-DECORATION: none;
+}

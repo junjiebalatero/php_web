@@ -1,0 +1,23 @@
+/* Theme Classes */
+FONT, TD, BODY, P, DIV { font-family: Arial, sans-serif; font-size: 12px }
+INPUT, SELECT, TEXTAREA, FORM { font-family: Arial, sans-serif; font-size: 11px }
+a { font-family: Arial, sans-serif; color: #339952; text-decoration: none }
+a:active { font-family: Arial, sans-serif; color: #339952; text-decoration: none }
+a:visited { font-family: Arial, sans-serif; color: #339952; text-decoration: none }
+a:hover { font-family: Arial, sans-serif; color: #FF0000; text-decoration: none }
+a.header { font-family: Arial, sans-serif; color: #FFFFFF; text-decoration: none }
+a.header:active { font-family: Arial, sans-serif; color: #FFFFFF; text-decoration: none }
+a.header:visited { font-family: Arial, sans-serif; color: #FFFFFF; text-decoration: none }
+a.header:hover { font-family: Arial, sans-serif; color: #FF0000; text-decoration: none }
+
+/* PHP-Nuke Classes */
+.title { font-family: Arial, sans-serif; background: none; color: #000000; font-size: 16px; font-weight: bold; text-decoration: none }
+.storytitle { font-family: Arial, sans-serif; background-color: #E7FFFF; color: #339952; font-size: 13px; font-weight: bold; padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px }
+.content { font-family: Arial, sans-serif; background-color: transparent; color: #000000; font-size: 12px; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px }
+.storycat { font-family: Arial, sans-serif; background: none; color: #000000; font-size: 13px; font-weight: bold; text-decoration: none }
+.boxtitle { font-family: Arial, sans-serif; background-color: #339952; color: #FFFFFF; font-size: 12px; font-weight: bold; padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px }
+.boxcontent { font-family: Arial, sans-serif; background-color: #E7FFFF; color: #339952; font-size: 11px; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px }
+.blockitem { font-family: Arial, sans-serif; background-color: #E7FFFF; color: #339952; font-size: 12px; padding-left: 5px; padding-right: 5px; padding-top: 5px; padding-bottom: 5px }
+.option { font-family: Arial, sans-serif; background: none; color: #000000; font-size: 14px; font-weight: bold; text-decoration: none }
+.tiny { font-family: Arial, sans-serif; background: none; color: #000000; font-size: 10px; font-weight: normal; text-decoration: none }
+

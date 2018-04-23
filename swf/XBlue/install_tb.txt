@@ -1,0 +1,31 @@
+# XBlue Theme v1.0.3 for PHP-Nuke 5
+# 29 Jul 2001
+#
+# See it in action at http://bobmarion.hostbet.com
+# Must register to select any of the themes
+#
+# Release under GPL
+# for others release :
+# http://bobmarion.hostbet.com
+
+1. Introduction and Requirements
+--------------------------------
+XBlue is a phpnuke Theme.
+It requires phpnuke 5.0 installed 
+
+
+2. Installation
+---------------
+Extract archive to temp dir and copy included as noted below:
+-------------------------------------------------------------
+language/myconfig/*.* ------------> language/myconfig/*.*
+themes/Blue/install.txt (do not upload, instructions only)
+themes/Blue/theme.php -----------> themes/Blue/theme1.php
+themes/Blue/images/*.* -----------> themes/Blue/images/*.*
+themes/Blue/style/*.* ------------> themes/Blue/style/*.*
+
+
+XBlue is released under GPL license, you can modify, use or ditribute this freely.
+
+
+Bob Marion (bobmarion@bobmarion.hostbet.com)

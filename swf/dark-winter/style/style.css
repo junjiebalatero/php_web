@@ -1,0 +1,40 @@
+FONT, TD, BODY, P, DIV, INPUT, TEXTAREA, FORM 
+{font-family: Verdana,Arial; 
+font: normal 11px;
+COLOR: #606060}
+
+body {
+  font-family: Verdana, Arial;
+  font-size: 11px;
+  body { color: #000000; 
+scrollbar-face-color: #CCCCCC; 
+scrollbar-shadow-color: #FFFFFF; scrollbar-highlight-color: #FFFFFF; scrollbar-3dlight-color: #FFFFFF; 
+scrollbar-darkshadow-color: #FFFFFF; scrollbar-track-color: #FFFFFF; scrollbar-arrow-color: #000000 }  
+}
+.portecache1 {
+	border-right:4px solid #000000;
+	background:#c0c0c0;
+}
+.portecache2 {
+	border-left:4px solid #000000;
+	background:#c0c0c0;
+}
+.portecache3 {
+	border-top:4px solid #08085a;
+	border-left:4px solid #08085a;
+	border-right:4px solid #08085a;
+	border-bottom:4px solid #08085a;
+	background:#000000;
+	text-align:center;
+	font-family:verdana;
+	font-weight:bold;
+	font-size:16px;
+}  
+.titrebox  { text-decoration : none; font-size : 12px; font-family: Verdana; color : #000000; } 
+.titre  { text-decoration : none; font-size : 13px; font-family: Verdana; color : #FFFFFF; }
+.info  { text-decoration : none; font-size : 10px; font-family: Verdana; color : #FFFFFF; }
+
+A:active { text-decoration : none; font-size : 11px; font-family: Verdana; color : #FF1D2D; }
+A:link { text-decoration : none; font-size : 11px; font-family: Verdana; color : #FF1D2D;  }
+A:visited { text-decoration : none; font-size : 11px; font-family: Verdana; color : #FF1D2D;  }
+A:hover { text-decoration : underline overline; font-size : 11px; font-family: Verdana; color : #FF1D2D; }

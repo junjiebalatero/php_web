@@ -1,0 +1,99 @@
+##################################################################
+# Tema do Site Anime Point!
+# http://animepoint.123fui.com.br
+# 
+# Webmaster: Paulo H. (phalkmin@ig.com.br)
+# Webdesigner: Morpheus (guta@brfree.com.br)
+# 
+##################################################################
+
+
+
+Para usar esse tema, você PRECISA colocar os arquivos links.js e topnav.js no diretório principal (raiz) do PHP-Nuke. Caso contrário, não vai funcionar corretamente.....
+
+
+Para que você possa alterar o menu, é só seguir esses passos no arquivo links.js:
+
+aMenu1 = new Array(  --> Ordem do menu.
+"",
+"35","110", --> Posição do Menu, em pixels, a partir da margem esquerda. O primeiro número especifica a é a posição horizontal, e o segundo, a posição vetical.
+"","",
+"","",
+"","",
+"Dicas","sections.php?op=listarticles&secid=2",0,
+"Dragon Ball","sections.php?op=listarticles&secid=3",0,
+"Entrevistas","sections.php?op=listarticles&secid=5",0,
+"Eventos","sections.php?op=listarticles&secid=6",0,
+"Karekano","sections.php?op=listarticles&secid=4",0,
+"Ranma","sections.php?op=listarticles&secid=1",0      --> Esses são os links. O último não pode conter virgulas.
+
+Caso você decida usar sub-menus, use uma linha como essa:
+
+"Área 1_Menu 3","http://www.<seu site>.com/area1_menu3.htm",1,
+
+E depois, adicione os links do sub-menu:
+
+aMenu1_3 = new Array(
+"Sub Menu 1","http://www.<seu site>.com/area1_menu3_submenu_1.htm",0,
+"Sub Menu 2","http://www.<seu site>.com/area1_menu3_submenu_2.htm",0,
+"Sub Menu 3","http://www.<seu site>.com/area1_menu3_submenu_3.htm",0,
+"Sub Menu 4","http://www.<seu site>.com/area1_menu3_submenu_4.htm",0
+
+
+Observações:
+- a distância em pixels do sub-menu em relação ao menu é definida no arquivo menu.htm abaixo
+- jamais altere o nome da variável aMenu
+ 
+Variáveis do arquivo theme.php: 
+No código-fonte do theme.php estão as variáveis de cor, borda, distância de sub-menu, fonte...:
+ 
+borWid = 2
+Indica que o menu terá uma borda de 2 pixels 
+ 
+borSty = "double"
+Indica que o menu terá uma borda tipo double 
+ 
+borCol = "#00008B"
+Indica que a cor da borda 
+ 
+separator = 1
+Indica que haverá uma linha de 1 pixel de espessura separando as opções do menu
+ 
+separatorCol = "#00008B"
+Indica a cor da linha que separa as opções do menu
+ 
+fntFam = "sans-serif"
+Indica a fonte utilizada no menu 
+ 
+fntBold = false
+Indica se a fonte de letra do menu será em negrito ou não 
+ 
+fntItal = false
+Indica se a fonte de letra do menu será italizada ou não  
+ 
+fntSiz = 8
+Indica o tamanho da fonte do menu 
+ 
+fntCol = "#0000FF"
+Indica a cor da fonte do menu 
+ 
+overFnt = "#000080"
+Indica a cor que a fonte terá quando o mouse passar sobre ela 
+ 
+itemPad = 3
+Indica o espaçamento da célula em relação ao menu (3 pixels)
+ 
+backCol = "#D3D3D3"
+Indica a cor de fundo do menu
+ 
+overCol = "#ADD8E6"
+Indica que cor o menu terá quando o mouse passar sobre ele 
+
+childOffset = 6
+Indica o nº de pixels entre o menu e a parte superior do sub-menu (veja a primeira imagem acima) 
+ 
+childOverlap = 60
+Indica o nº de pixels entre o menu e a borda esquerda do sub-menu (veja a primeira imagem acima) 
+
+
+Existem algumas outras variáveis e você poderá alterá-las e testá-las em seu browser. Boa sorte!

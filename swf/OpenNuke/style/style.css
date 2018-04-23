@@ -1,0 +1,40 @@
+/*     Credits Given to Jiwang http://www.jiwang.org for This Style Sheet  */
+
+
+FONT, TD, BODY, P, DIV, INPUT, TEXTAREA, FORM { 
+font-family: Verdana,Helvetica; 
+}
+
+A:hover {
+color: green;
+             cursor: help;
+       text-decoration: none;
+
+}
+
+A:link  {
+            color: #000000;
+font-weight:bold;
+}
+
+A:visited {
+ font-weight:bold;
+}
+
+A:active  {
+color: #FFFF00;
+text-decoration:none;
+}
+
+A:hover img {filter: glow(Color=#FFFF00,Strength=5);}
+
+input { color:#000000; font: 8pt verdana; font-weight: none; text-decoration: none;
+background: lightgrey; border: 1 solid #000000;
+background-image:url('../images/inputbg.gif'); padding-left : 3px;  padding-top : 1px; }
+
+textarea { color:#000000; font: 8pt verdana; font-weight: none; text-decoration: none;
+background: lightgrey; border: 1 solid #000000; }
+
+select { color:#000000; font: 8pt verdana; font-weight: none; text-decoration: none;
+background: lightgrey; border: 1 solid #000000; }
+

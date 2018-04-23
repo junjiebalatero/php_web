@@ -1,0 +1,47 @@
+***** Theme for PHP-Nuke - http://phpnuke.org *****
+
+
+================ Theme Information ================
+Date Creation 	  : Unknow
+Last Modification : July 27, 2001
+Title 		  : 0ri0n
+Version		  : 1.6
+Filename          : 0ri0n-1.6.tar.gz
+Author            : Mr. kl0nk Manson
+Author E-Mail     : kl0nk at users.sourceforge.net
+Description       : A theme based on my site News - http://pleyades.sourceforge.net
+
+================ Misc Information ================
+New Graphics : Yes
+CSS          : Yes
+Java 	     : No
+Java-Script  : No
+Flash        : No
+Sound        : No
+
+
+Future versions of this theme can be downloaded from:
+http://pleyades.sourceforge.net
+
+
+================ Construction ================
+Tested with phpnuke version  : 5.0.1
+                               Netscape Navigator 4.77 (Linux)
+			       Internet Explorer 5.5
+			       Mozilla 0.8
+Base                         : ExtraLite (New Version for 5.0 Beta 3)
+Editor(s) and Utilities used : Internal File Editor Midnight Commander
+Known Bugs                   : None
+Build Time                   : 2 Hours
+
+
+================ Installation ================
+Place the file in the theme directory of phpnuke and
+run 'tar zxvf filename.tar.gz'
+Do not change the directory name without changing the paths
+to the images that comes with this package.
+
+
+================ Copyright & Legal Information ================
+This is Under GPL/GNU Licence
+

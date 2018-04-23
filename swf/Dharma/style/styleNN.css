@@ -1,0 +1,9 @@
+FONT, TD, BODY, P, DIV, INPUT, TEXTAREA, FORM {font-family: Verdana,Helvetica}
+ hr {color: sienna}
+ 
+ p {margin-left: 20px}
+ a
+ 	{
+                color:#044372;
+                text-decoration:none;
+        }

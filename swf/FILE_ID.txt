@@ -1,0 +1,23 @@
+All Themes Pack - dehardcoded
+Last changed 4. September 2001
+
+Check for more and updated Themes at
+
+    http://www.nukethemes.de
+    http://www.passions.de
+
+115+ Themes for Postnuke + PHP Nuke 5.x (de-hardcoded)
+30+ Languages for Postnuke + PHP Nuke 5.x
+German Translation for My_eGallery 2.6.6, PHPBB 
+Theme Screenshots, Postnuke, PHPBB Stuff
+Modifications, Modules Misc. News & More
+
+Recent Changes:
+Somara-XP
+deviantNuke
+AstroBlue
+AstroGreen
+
+styleNN.css files added to most themes
+image path's corrected, images moved to subdirs
+

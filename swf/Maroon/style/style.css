@@ -1,0 +1,5 @@
+FONT, TD, BODY, P, DIV, INPUT, TEXTAREA, FORM {font-family: Verdana,Arial,Helvetica}
+a:link          { color:#000011;FONT-FAMILY: Verdana,Arial,Helvetica;text-decoration:underline; }
+a:visited       { color:#000011;FONT-FAMILY: Verdana,Arial,Helvetica;text-decoration:underline; }
+a:hover         { color:#FFFFFF;FONT-FAMILY: Verdana,Arial,Helvetica;text-decoration:underline;background:blue;}
+a:hover b       { color:#FFFFFF;FONT-FAMILY: Verdana,Arial,Helvetica;text-decoration:underline;background:blue;}

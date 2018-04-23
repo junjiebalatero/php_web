@@ -1,0 +1,40 @@
+# Red2 Theme for PHP-Nuke 5
+# 28/06/2001
+#
+# See it in action at http://bobmarion.hostbet.com
+# Must register to select any of the themes
+#
+# Release under GPL
+# for others release :
+# http://bobmarion.hostbet.com
+
+1. Introduction and Requirements
+--------------------------------
+Red2 is a phpnuke Theme.
+It requires phpnuke 5.0 installed 
+
+
+2. Installation
+---------------
+Extract archive to temp dir and copy included as noted below:
+-------------------------------------------------------------
+themes/Red2/install.txt (do not upload, instructions only)
+themes/Red2/theme1.php -----------> themes/Red2/theme1.php
+themes/Red2/theme2.php -----------> themes/Red2/theme2.php
+themes/Red2/theme3.php -----------> themes/Red2/theme3.php
+themes/Red2/images/*.* -----------> themes/Red2/images/*.*
+themes/Red2/style/*.* ------------> themes/Red2/style/*.*
+
+
+3. Use
+------
+The theme*.php files are as follows and the one you want to use should be renamed
+to theme.php:
+theme1.php --> Ignores the $index setting and displays left and right blocks
+theme2.php --> Diplays left blocks if $index is set to 0(zero), both if set to 1
+theme3.php --> Diplays right blocks if $index is set to 0(zero), both if set to 1
+
+Red2 is released under GPL license, you can modify, use or ditribute this freely.
+
+
+Bob Marion (bobmarion@bobmarion.hostbet.com)

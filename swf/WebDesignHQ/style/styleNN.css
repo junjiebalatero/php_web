@@ -1,0 +1,35 @@
+BODY  { BACKGROUND: #F6F7EB; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana, sans-serif; MARGIN-TOP: 0; MARGIN-LEFT: 0; MARGIN-RIGHT: 0; MARGIN-BOTTOM: 0 }
+
+A:link            {BACKGROUND: none; COLOR: #000000;FONT: 11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A:active          {BACKGROUND: none; COLOR: #000000;FONT:11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A:visited         {BACKGROUND: none; COLOR: #000000;FONT: 11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A:hover           {BACKGROUND: none; COLOR: #000000;FONT: 11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-title	 {BACKGROUND: none; COLOR: #000000;FONT: bold 12px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-title:active	{BACKGROUND: none; COLOR: #000000;FONT: bold 12px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-title:visited	{BACKGROUND: none; COLOR: #000000;FONT: bold 12px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-title:hover	{BACKGROUND: none; COLOR: #000000;FONT: bold 12px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-normal:link	 {BACKGROUND: none; COLOR: #000000;FONT: 11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-normal:active	 {BACKGROUND: none; COLOR: #000000;FONT: 11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-normal:visited	 {BACKGROUND: none; COLOR: #000000;FONT: 11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-normal:hover	 {BACKGROUND: none; COLOR: #000000;FONT: 11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-sub:link	 {BACKGROUND: none; COLOR: #000000;FONT: 10px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-sub:active	 {BACKGROUND: none; COLOR: #000000;FONT: 10px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-sub:visited	 {BACKGROUND: none; COLOR: #000000;FONT: 10px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-sub:hover	 {BACKGROUND: none; COLOR: #000000;FONT: 10px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-logo:link				{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 16px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; LETTER-SPACING: 3px; TEXT-DECORATION: none}
+A.pn-logo:active			{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 16px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; LETTER-SPACING: 3px; TEXT-DECORATION: none}
+A.pn-logo:visited			{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 16px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; LETTER-SPACING: 3px; TEXT-DECORATION: none}
+A.pn-logo:hover			{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 16px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; LETTER-SPACING: 3px; TEXT-DECORATION: none}
+
+.pn-logo 			{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 16px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; LETTER-SPACING: 3px; TEXT-DECORATION: none}
+.pn-logo-small  {BACKGROUND: none; COLOR: #000000; FONT-SIZE: 11px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; TEXT-DECORATION: none}
+.pn-pagetitle     {BACKGROUND: none; COLOR: #000000;FONT: bold 14px Tahoma, Verdana, sans-serif;TEXT-DECORATION: none}
+.pn-title           {BACKGROUND: none; COLOR: #000000;FONT: bold 12px Tahoma, Verdana, sans-serif;TEXT-DECORATION: none}
+.pn-storytitle   {BACKGROUND: none; COLOR: #000000;FONT: bold 12px Tahoma, Verdana, sans-serif; LETTER-SPACING: 3px;TEXT-DECORATION: none}
+.pn-normal      {BACKGROUND: none; COLOR: #000000;FONT: 11px Tahoma, Verdana, sans-serif;TEXT-DECORATION: none; TEXT-ALIGN: justify}
+.pn-sub           {BACKGROUND: none; COLOR: #000000;FONT: 10px Tahoma, Verdana, sans-serif;TEXT-DECORATION: none}
+
+INPUT.pn-text	{BACKGROUND : #D9DCC2; COLOR: #000000; BORDER: solid 1px #000000; FONT-SIZE: 8px}
+
+@font-face { font-family: Tahoma;	font-style:  normal; font-weight: normal;	 src: url(themes/PostNuke/style/TAHOMA0.eot);}
+@font-face { font-family: Tahoma;	font-style:  normal; font-weight: 700;	src: url(themes/PostNuke/style/TAHOMA0.eot);}

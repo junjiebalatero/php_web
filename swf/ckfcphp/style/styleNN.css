@@ -1,0 +1,148 @@
+BODY {
+	margin:2,2,2,2;
+	font-size: 12.5 px;
+	font-family: Tahoma,Verdana,Arial,Helvetica, sans-ser;
+	BACKGROUND: #7777AA;
+	SCROLLBAR-FACE-COLOR: #ADAFDB;
+	SCROLLBAR-HIGHLIGHT-COLOR: #7777AA;
+	SCROLLBAR-SHADOW-COLOR: #555599;
+	SCROLLBAR-ARROW-COLOR: #333355;
+	SCROLLBAR-BASE-COLOR: #EEEEFF;
+	scrollbar-3d-light-color: #CCCCEE;
+	scrollbar-dark-shadow-color: #9999BBlist-style:url(themes/dgfr/images/minibul.gif);
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif color: #c9c9db;
+}
+
+.textbox {
+	FONT-WEIGHT: bold;
+	background-color: #ADAFDB;
+	border: 1px solid #EEEEFF;
+	color: #444477;
+	font-size: 10.5 px;
+	
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	text-align: left;
+	scrollbar-face-color: #9E9ECA;
+	scrollbar-shadow-color: #111133;
+	scrollbar-highlight-color: #CCCCFF;
+	scrollbar-3dlight-color: #DDDDFF;
+	scrollbar-darkshadow-color: #111133;
+	scrollbar-track-color: #9E9ECA;
+	scrollbar-arrow-color: #333355
+}
+
+.form {
+	background-color: #9E9ECA;
+	border: 0.6px solid #EEEEFF;
+	color: #444477;
+	font-size: 10.5 px;
+	;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	text-align: left;
+}
+A:link {
+	TEXT-DECORATION: none COLOR: #7777BB;
+	font-weight:bold;
+	font-size:95%;
+}
+
+A:visited {
+	TEXT-DECORATION: none COLOR: #7777BB;
+	font-weight:bold;
+	font-size:95%;
+}
+
+A:hover {
+	FONT-WEIGHT: bolder;
+	font-size: ;
+	COLOR: #222244;
+	BACKGROUND: #ADAFDB;
+	POSITION: relative;
+	TOP: 1.4px;
+	TEXT-DECORATION: none
+}
+
+.A1:link {
+	TEXT-DECORATION: none COLOR: #7777BB;
+	font-weight:bold;
+	font-size:110%;
+}
+
+.A1:visited {
+	TEXT-DECORATION: none COLOR: #7777BB;
+	font-weight:bold;
+	font-size:110%;
+}
+
+.A1:hover {
+	FONT-WEIGHT: bolder;
+	font-size: ;
+	COLOR: #222244;
+	BACKGROUND: #7777AA;
+	POSITION: relative;
+	TOP: 1.4px;
+	TEXT-DECORATION: none
+}
+
+TD {
+	font-size: 12.5 px;
+	;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif TEXT-DECORATION: none;
+}
+
+DIV {
+	background: #7777AA;
+	font-size: 12.5 px;
+	;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif height: 12;
+}
+
+.button {
+	FONT-FAMILY: ;
+	font-weight:bold;
+	font-size:85%;
+	color: #111133;
+	background-color: #ADAFDB;
+	border-color: #eeeeFF;
+	margin-top:6pt;
+	margin-left: .5em;
+}
+.boxtitle {
+	FONT-WEIGHT: bolder;
+	COLOR: 444477;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica;
+	font-size: 10.5px;
+	TEXT-DECORATION: none
+}
+.boxmain {
+	letter-spacing : 0.7px;
+	FONT-WEIGHT: bolder;
+	COLOR: #444477;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica;
+	font-size: 10.5px;
+	TEXT-DECORATION: none
+}
+.artitle {
+	FONT-WEIGHT: bold;
+	COLOR: 111133;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica;
+	font-size:95%;
+	TEXT-DECORATION: none
+}
+.artinfo {
+	FONT-WEIGHT: lighter;
+	COLOR: #333355;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica;
+	font-size:85%;
+	TEXT-DECORATION: none
+}
+.artext {
+	FONT-WEIGHT: bolder;
+	COLOR: #333355;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica;
+	font-size:95%;
+	TEXT-DECORATION: none
+}
+-->

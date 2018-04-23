@@ -1,0 +1,72 @@
+FONT {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px
+}
+TD {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px
+}
+BODY {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px
+}
+P {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px
+}
+DIV {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px
+}
+INPUT {
+	FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 10px; background-color: #73C7FF
+; border: 1px #000000 solid
+; color: #FFFF33
+; font-weight: bolder
+}
+TEXTAREA {
+	FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 10px
+; border: 1px #000000 solid
+; background-color: #DCEFF8
+}
+FORM {
+	FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 10px
+; border: none
+}
+A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #0000CC; TEXT-DECORATION: none
+}
+A:active {
+	BACKGROUND: transparent url(none) repeat scroll 0% 0%; COLOR: #EE0000; TEXT-DECORATION: underline
+; border-color: #EE0000 #EF0000 #EF0000; border-style: dotted; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px
+}
+A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #0000CC; TEXT-DECORATION: none
+}
+A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #EE0000; TEXT-DECORATION: underline
+}
+.title {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 16px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.content {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 10px
+}
+.contentblocks {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 10px
+}
+.storytitle {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #EE0000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.storycat {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.boxtitle {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #363636; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.boxcontent {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 10px
+}
+.option {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.tiny {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+SELECT {  font-size: 10px; border: #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; background-color: #DCEFF8}
+.nav {  background-color: #FFFFFF; text-decoration: none; border: 1px #000000 solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-weight: bolder; font-variant: normal; text-transform: none; text-align: center}

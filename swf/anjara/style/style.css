@@ -1,0 +1,31 @@
+/* ====================================== Style sheet  ======================================= */
+/* Body */
+body { scrollbar-face-color: #FCF1E1; scrollbar-shadow-color: #000000; scrollbar-highlight-color: #FFFFFF; scrollbar-3dlight-color: #000000; scrollbar-darkshadow-color: #EEEEEE; scrollbar-track-color: #FCF1E1; scrollbar-arrow-color: #000000 }
+/* Black body text */
+.ctnegro, a.ctnegro:link, a.ctnegro:visited, a.ctnegro:active, table.ctnegro, td.ctnegro
+{ color:#000000; font-size : 11px; font-family : tahoma,verdana,arial,helvetica; font-weight : normal; text-decoration: none }
+
+/* White body text */
+.ctblanco, a.ctblanco:link, a.ctblanco:visited, a.ctblanco:active, table.ctblanco, td.ctblanco
+{ color:#FFFFFF; font-size : 11px; font-family : tahoma,verdana,arial,helvetica; font-weight : normal; text-decoration: none }
+
+/* Black title */
+.tnegro, a.tnegro:link, a.tnegro:visited, a.tnegro:active, table.tnegro, td.tnegro, h1.tnegro
+{ color:#000000; font-size : 16px; font-family : arial,helvetica; font-weight : bold; text-decoration: none }
+
+/* Black Subtitle */
+.stnegro, a.stnegro:link, a.stnegro:visited, a.stnegro:active, table.stnegro, td.stnegro
+{ color:#000000; font-size : 12px; font-family : tahoma,verdana,arial,helvetica; font-weight : normal; text-decoration: none }
+
+/* picture hover */
+.resalta1, a.resalta1:link, a.resalta1:visited, table.resalta1, td.resalta1
+{ color: #000000; font-size : 11px; font-family : tahoma,arial,helvetica; font-weight : bold; text-decoration: none }
+a.resalta1:hover, a.resalta1:active
+{ background: #007F9B; color: #FFFFFF;  font-size : 11px; font-family : tahoma,arial,helvetica; font-weight : bold; text-decoration: none}
+
+/* hover  */
+.resalta0, a.resalta0:link, a.resalta0:visited, table.resalta0, td.resalta0
+{ color: #000000; font-size : 11px; font-family : tahoma,arial,helvetica; font-weight : regular; text-decoration: none }
+a.resalta0:hover, a.resalta0:active
+{ color: #000000;  font-size : 11px; font-family : tahoma,arial,helvetica; font-weight : regular; text-decoration: underline }
+

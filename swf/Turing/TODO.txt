@@ -1,0 +1,12 @@
+//
+// Turing Theme For PostNuke 0.5.1.2
+//
+// $Id: TODO.txt,v 1.4 2001/08/14 19:51:31 awd Exp $
+//
+
+TODO
+----
+
+* Cleanup the theme HTML code - how can I get it to all look perfect?
+* Fix CSS issues as PostNuke evolves.
+* Figure out why the article titles look s o o o o     s p a c e y ?

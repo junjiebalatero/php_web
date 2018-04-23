@@ -1,0 +1,57 @@
+FONT, BODY, P, DIV, INPUT, TEXTAREA, FORM {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+TD, TR, TH {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size : x-small;
+}
+
+TD.title {
+	font-size : 10pt;
+}
+
+TD.posted {
+	font-size : 10px;
+	font-weight : bold;
+}
+
+TD.topbar {
+	font-size : 10px;
+}
+
+DIV {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+BODY {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	scrollbar-face-color: #B5BDCE;
+	scrollbar-shadow-color: #92A0AE;
+	scrollbar-highlight-color: #E5E6DE;
+	scrollbar-3d-light-color: #92A0AE;
+	scrollbar-dark-shadow-color: #92A0AE;
+	scrollbar-arrow-color: #ff0000;
+	scrollbar-base-color : #EFEFEF; 
+	background-color : #FFFFFF;
+	color : Black;
+	background : #FFFFFF url(../images/background.gif) repeat-x;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+}
+
+A 		{color: #000000; text-decoration:none;}
+A:visited 		{color: #000000; text-decoration:none;}
+A:hover 		{color: #ff0000; text-decoration:underline overline;}
+A:active 		{color: #000000; text-decoration:none;}
+
+A.links 		{color: #000000; text-decoration:none;}
+A.links:visited 	{color: #000000; text-decoration:none;}
+A.links:hover 	{color: #ff0000; text-decoration:underline;}
+A.links:active 	{color: #dd0000; text-decoration:underline;}
+
+
+}
+
+

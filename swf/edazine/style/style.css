@@ -1,0 +1,172 @@
+/* Fixed Size Styles these need to be one pixel bigger to work nice in Netscape! */
+
+body 			{color: #000000; font-family: Verdana, Arial, helvetica, sans-serif; font-size: 10px;
+				}
+
+
+div.small 		{color: #000000; font-size: 11px; font-family: Verdana, Arial, helvetica, sans-serif; }
+div.text 		{color: #000000; font-size: 13px; font-family: Verdana, Arial, helvetica, sans-serif; }
+div.main 		{margin-left: 30px; }
+div.arcadehead	{color: #000000; font-size: 19px; font-weight: bold;}
+div.margin 		{ margin-left: 60px;}
+td	 			{color: #000000; font-family: Verdana, Arial, helvetica, sans-serif; font-size: 10px;}
+td.heading		{color: #ffffff; background-color: #ff8300; font-size: 18px; font-weight: bold; font-style: italic;}
+td.announceback	{color: #000000; background-color: #FFEC8D; font-size: 12px;}
+td.homeback		{color: #000000; background-color: #eeeeee; font-size: 12px;}
+td.animeback	{color: #000000; background-color: #ffffff; font-size: 12px;}
+td.ymain		{color: #000000; background-color:#ffdb5a; font-size: 13px; font-weight: bold; padding: 2;}
+td.categories	{color: #ffffff; background-color:#002874; font-size: 13px; font-weight: bold;}
+td.arcadehead	{color: #000000; font-size: 19px; font-weight: bold;}
+td.typerhow1	{color: #000000; background-color: #ffdb5a; font-size: 11px;}
+td.typerhow2	{color: #000000; background-color: #ffffff; font-size: 11px;}
+
+.text			{color: #000000; font-size: 13px;}
+.textbold		{color: #000000; font-size: 13px; font-weight: bold;}
+.textwhite		{color: #ffffff; font-size: 13px;}
+.textboldwhite	{color: #ffffff; font-size: 13px; font-weight: bold;}
+.translate		{color: #ffffff; background-color: #ff8300; font-size: 11px;}
+.mail			{color: #000000; background-color: #ffffff; font-size: 11px;}
+.mailbig		{color: #000000; font-size: 18px; font-family: Arial, helvetica, sans-serif; font-weight: bold;}
+.search			{color: #ffffff; background-color: #3184BD; font-size: 11px;}
+.link 			{color: #000000; font-size: 13px; font-weight: bold;}
+.linknew		{color: #ff0000; font-size: 13px; font-weight: bold;}
+.linksmall		{color: #000000; font-size: 11px;}
+.reviews		{color: #000000; background-color: #ffffc4; font-size: 12px;}
+
+/* Headers */
+h2 				{color: #333333; font-size: 18 px; font-weight: bold; }
+h3				{color: #333333; font-size: 16 px; font-weight: bold; }
+h4				{color: #0000dd; font-size: 14px; font-weight: bold;}
+
+/* Form Button settings */
+.pnorm 			{color:#000000; background-color:#f4ca00; font: 13px Verdana, Arial,Helvetica,Sans Serif; font-weight: bold}
+.pover 			{color:#ffffff; background-color:#f4ca00; font: 13px Verdana, Arial,Helvetica,Sans Serif; font-weight: bold}
+
+/* Navbar */
+A.nav 			{color: #FFFFFF; font-size: 10px; font-weight: bold; text-decoration:none;}
+A.nav:visited 	{color: #FFFFFF; font-size: 10px; font-weight: bold; text-decoration:none;}
+A.nav:hover 	{color: #FFC770; font-size: 10px; font-weight: bold; text-decoration:underline;}
+A.nav:active 	{color: #FFC770; font-size: 10px; font-weight: bold; text-decoration:underline;}
+td.nav  		{color: #0089cd; font-weight: bold;}
+tr.main 		{background-color: #000099;}
+
+/* Title Bar */
+td.ysmall		{color: #000000; background-color:#ffdb5a; font-weight: bold;}
+
+/* Lines Links */
+td.blueline 	{background-color: #0089cd;}
+td.whiteline	{background-color: #ffffff;}
+td.blackline 	{background-color: #000000;}
+
+/* Text Styles */
+.smallbold		{color: #000000; font-weight: bold;}
+.smallboldgrey	{color: #333333; font-weight: bold;}
+.smallboldwhite	{color: #ffffff; font-weight: bold;}
+.small			{color: #000000;}
+.smallwhite		{color: #ffffff;}
+.smallgrey		{color: #777777;}
+
+/* Global Settings */
+A 				{color: #000000; text-decoration:none;}
+A:visited 		{color: #000000; text-decoration:none;}
+A:hover 		{color: #ff0000; text-decoration:underline overline;}
+A:active 		{color: #000000; text-decoration:none;}
+
+A.links 		{color: #000000; text-decoration:none;}
+A.links:visited {color: #000000; text-decoration:none;}
+A.links:hover 	{color: #ff0000; text-decoration:underline;}
+A.links:active 	{color: #dd0000; text-decoration:underline;}
+
+A.white			{color: #ffffff; text-decoration:underline;}
+A.white:visited	{color: #ffffff; text-decoration:underline;}
+A.white:hover 	{color: #ffc400; text-decoration:underline;}
+A.white:active	{color: #ffc400; text-decoration:underline;}
+
+/* Homepage Specific */
+A.title			{color: #ffffff; text-decoration:none;}
+A.title:visited {color: #ffffff; text-decoration:none;}
+A.title:hover 	{color: #ffc400; text-decoration:underline;}
+A.title:active 	{color: #ffc400; text-decoration:underline;}
+td.dates		{color: #000000; background-color: #ffffff;}
+td.title		{color: #ffffff; background-color: #000000; font-weight: bold;}
+td.titlewhite	{color: #000000; background-color: #ffffff; font-weight: bold;}
+
+/* Arcade Specific */
+td.arcadeback	{background-color: #FFD400;}
+
+/* FLASHtyper Specific */
+table.typerback  	{background-color: #4A91A0;}
+table.typerback2  	{background-color: #ffc400;}
+td.typerinner		{color: #000000; background-color: #ffffff; padding:4px;}
+td.typerfeature 	{color: #000000; background-color: #ffffff;}
+td.typerinnergrey 	{color: #000000; background-color: #dddddd; padding:4px;}
+
+/* Loops Specific */
+table.loopleft  	{background-color: #3184BD;}
+table.loopright  	{background-color: #0000dd;}
+td.loopleftinner	{color: #000000; background-color: #FFF7BA;}
+td.looprightinner	{color: #000000; background-color: #ffffff; padding:4px;}
+
+/* movies Specific */
+.version4			{color: #000000; font-weight: bold;}
+.version5			{color: #ff0000; font-weight: bold;}
+
+/* email Specific */
+A.email				{color: #ffffff; text-decoration:underline;}
+A.email:visited	 	{color: #ffffff; text-decoration:underline;}
+A.email:hover 		{color: #ffc400; text-decoration:underline;}
+A.email:active		{color: #ffc400; text-decoration:underline;}
+
+/* Poll Specific */
+.pollTable 			{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; padding:0px; font-size: 13px;}
+.pollTitle 			{color: #ffffff; background-color: #3184BD; font-weight: bold; padding:2px; font-size: 13px;}
+.pollItem			{color: #000000; background-color: #ffdb5a; padding:2px; font-size: 13px;}
+.pollOption 		{background-color:#ffc400; vertical-align:middle; text-align:left;  font-size: 13px;}
+.pollSummary 		{color:#000000; background-color:#ffffff; padding:2px; vertical-align:middle; text-align:center; font-size: 13px;}
+.pollImage 			{text-align:left; background-color:#ffc400; padding:2px; vertical-align:middle;  font-size: 13px;}
+.pollPercent 		{color: #000000; background-color: #ffdb5a; padding:2px; text-align:right; font-size: 13px;}
+.pollVotes 			{color: #000000; background-color: #ffc400; padding:2px; font-size: 13px;}
+.maxReachedTable   	{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-size: 13px;}
+.maxReachedMessage 	{ text-align:center; color:#000000; background-color:#D2D8D6; padding:2px; text-align:left; font-size: 13px;}
+
+/* Announcement Specific */
+A.announce 			{color: #000000; text-decoration:underline;}
+A.announce:visited 	{color: #000000; text-decoration:underline;}
+A.announce:hover 	{color: #ffc400; text-decoration:underline;}
+
+/* Tutorial Specific */
+td.tuteclass		{color: #ffffff; background-color: #ff8300; font-size: 14px; font-weight: bold;}
+td.tutelevel		{color: #ff8000; font-size: 14px; font-weight: bold;}
+td.tuteheader		{color: #000000; font-size: 18px; font-weight: bold;}
+div.notes 			{background: #eeeeee; font-size: 12px; margin-left: 40px; margin-right: 40px; padding: 10px; border-color: #000000;}
+div.code 			{color: #3366CC; font-size: 12px; margin-left: 40px; margin-right: 40px; padding: 10px;}
+
+/*Links Engine settings*/
+.smalltext 			{font-size: 10px; }
+.descript			{color: #333333; font-size: 13px;}
+td.home 			{font-size: 10px;}
+td.nav				{color: #0089cd; font-size: 10px; font-weight: bold;}
+div.next 			{background-color:#ffdb5a; font-size: 13px; padding: 2; border-width : 1 1 1 1; border-style : solid;}
+ul 					{margin-left: 40px; font-size: 12px; list-style: disc;}
+sup.new 			{color: #FF0000; font-size: 12px;}
+sup.pop 			{background: #ffc400; font-size: 12px;}
+small.date 			{color: #666666; font-size: 10px;}
+small.numlinks 		{color: #666666; font-size: 10px;}
+strong.search 		{font-size: 14px; font-weight: bold;}
+small.more 			{font-size: 10px;}
+strong.error 		{color: #ff0000; font-weight: bold;}
+strong.title 		{font-size: 13px; font-weight: bold;}
+td.catlist 			{font-size: 12px;}
+pre 				{color: #3366CC; margin-left: 40px; margin-right: 40px; padding: 10px; font-size: 12px;}
+.code 				{color: #3366CC; font-size: 12px;}
+small.update 		{color: #999999; font-size: 10px; font-weight: bold;}
+
+/* Fonts Specific */
+td.myfk 			{background: #FFF599; font-size: 10px;}
+ul.font 			{margin-left: 10px; font-size: 10px; font-weight: bold;}
+-->
+FONT, TD, BODY, P, DIV, INPUT, TEXTAREA, FORM 
+{font-family: Verdana,Arial; 
+font: normal 11px;}
+
+

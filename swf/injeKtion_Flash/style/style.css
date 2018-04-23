@@ -1,0 +1,435 @@
+body {
+background-color : #FFFFFF; 
+margin-top : 0; 
+margin-right : 0; 
+margin-bottom : 0; 
+margin-left : 0; 
+padding-top : 0; 
+padding-right : 0; 
+padding-bottom : 0; 
+padding-left : 0; 
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px;
+}
+a:link {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+color : #FF0000; 
+text-decoration : underline; 
+} 
+a:visited {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+color : #FF0000; 
+text-decoration : underline; 
+} 
+a:hover {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+color : #000000;
+background-color : #FFCC00; 
+text-decoration : none; 
+} 
+a:active {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+color : red; 
+text-decoration : underline; 
+}
+.head-dark-back {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-style : normal; 
+font-weight : bold; 
+color : #ffffff; 
+background-color : #003366; 
+}
+.lineblue { 
+background-image : url(/themes/injeKtion/images/lineblue.gif); 
+background-repeat : repeat-x; 
+background-position : 0% 0%; 
+}
+.newsline {
+background-image : url(/themes/injeKtion/images/more-line.gif); 
+background-repeat : repeat-x; 
+background-position : 0% 50%;
+background-color : transparent; 
+} 
+.linevertical {
+background-image : url(/themes/injeKtion/images/lineblack-vertical.gif); 
+background-repeat : repeat-y; 
+background-position : 100% 0%;
+}
+.fond-orange {
+background-color : #ff9900;
+}
+.fond-nuit {
+background-color : #003366;
+}
+.fond-orange-head {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-weight : bold; 
+color : #ffffff; 
+background-color : #ff9900; 
+height : 35px; 
+} 
+.news-titre {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-style : normal; 
+font-weight : bolder; 
+color : #000000; 
+background-image : url(/themes/injeKtion/images/back-titre-news.gif); 
+background-repeat : repeat; 
+background-position : 0% 0%; 
+text-align : left; 
+vertical-align : middle;
+}
+.news-titre a:link {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+color : #000000;
+font-weight : bolder; 
+text-decoration : underline; 
+} 
+.news-titre a:visited {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+color : #000000; 
+font-weight : bolder;
+text-decoration : underline; 
+} 
+.news-titre a:hover {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+color : #000000;
+font-weight : bolder;
+background-color : #FFCC00; 
+text-decoration : none; 
+} 
+.news-titre a:active {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+color : red;
+font-weight : bolder; 
+text-decoration : underline; 
+}
+.back-line {
+vertical-align : middle; 
+border-color : black; 
+border-style : solid; 
+border-top-width : 2px; 
+border-right-width : 0; 
+border-bottom-width : 2px; 
+border-left-width : 0; 
+} 
+.head-line {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-style : normal; 
+font-weight : bold; 
+color : #000000; 
+vertical-align : middle; 
+border-color : black; 
+background-image : url(/themes/injeKtion/images/back-head-line.gif); 
+background-repeat : repeat-x; 
+background-position : 0% 100%; 
+border-style : solid; 
+border-top-width : 2px; 
+border-right-width : 0; 
+border-bottom-width : 2px; 
+border-left-width : 0; 
+}
+.head-line a:link {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+color : #FF0000; 
+text-decoration : none; 
+} 
+.head-line a:visited {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+color : #FF0000; 
+text-decoration : none
+}
+.head-line a:hover {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+color : #FF0000;
+background-color : red; 
+text-decoration : none; 
+} 
+.head-line a:active {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+color : blue; 
+text-decoration : none; 
+}  
+.headmenu {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-weight : bold; 
+color : #ffffff; 
+} 
+.headmenu a:link {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-weight : bold; 
+color : #ffffff; 
+text-decoration : none; 
+} 
+.headmenu a:visited {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-weight : bold; 
+color : #ffffff; 
+text-decoration : none; 
+} 
+.headmenu a:hover {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-weight : bolder;
+color : #ff0000; 
+text-decoration : none; 
+} 
+.headmenu a:active {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-weight : bold; 
+color : #ffffff; 
+text-decoration : none; 
+}
+.boxtitle {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+font-weight : bolder; 
+color : #FFFFFF;
+background-image : url(/themes/injeKtion/images/box.gif);
+background-position : 0% 0%;
+height : 19px; 
+} 
+.boxcontent {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-weight : normal; 
+color : #FFFFFF;
+} 
+.pn-normal {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-weight : normal; 
+} 
+.newsline {
+background-image : url(/themes/injeKtion/images/more-line.gif); 
+background-repeat : repeat-x; 
+background-position : 0% 50%; 
+} 
+.boxin {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-weight : normal; 
+color : #FFFFFF; 
+} 
+.boxin a:link {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-weight : bold; 
+color : #FFFFFF; 
+text-decoration : none; 
+} 
+.boxin a:visited {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-weight : bold; 
+color : #FFFFFF; 
+text-decoration : none; 
+} 
+.boxin a:hover {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-weight : bold; 
+color : #ff9900;
+background-color : #003366; 
+text-decoration : none; 
+} 
+.boxin a:active {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 11px; 
+font-weight : bold; 
+color : red; 
+text-decoration : none; 
+}
+INPUT {
+background-color : transparent; 
+color : #000000; 
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-weight : normal;
+border-color : #000000;  
+border-top-width : 1px; 
+border-right-width : 1px; 
+border-bottom-width : 1px; 
+border-left-width : 1px;
+text-indent : 2px;  
+} 
+SELECT {
+background-color : #EEEEEE; 
+color : black; 
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-weight : bold;
+}
+.backnews {
+background-image : url(/themes/injeKtion/images/backtable.jpg); 
+background-repeat : repeat-y;
+background-color : #FFFFFF;
+}
+.backbigtable {
+background-image : url(/themes/injeKtion/images/backbigtable.jpg); 
+background-repeat : repeat-y;
+background-position : top right;
+background-color : #FFFFFF;
+}
+.pn-logo {
+BACKGROUND: none; 
+COLOR: #000000; 
+FONT-SIZE: 16px; 
+FONT-WEIGHT: bold; 
+FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+LETTER-SPACING: 3px; 
+TEXT-DECORATION: none;
+}
+
+A.pn-logo:link {
+BACKGROUND: none; 
+COLOR: #000000; 
+FONT-SIZE: 16px; 
+FONT-WEIGHT: bold; 
+FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+LETTER-SPACING: 3px; 
+TEXT-DECORATION: none;
+}
+A.pn-logo:visited {
+BACKGROUND: none; 
+COLOR: #000000; 
+FONT-SIZE: 16px; 
+FONT-WEIGHT: bold; 
+FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+LETTER-SPACING: 3px; 
+TEXT-DECORATION: none;
+}
+A.pn-logo:hover	{
+BACKGROUND: none; 
+COLOR: #000000; 
+FONT-SIZE: 16px; 
+FONT-WEIGHT: bold; 
+FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+LETTER-SPACING: 3px; 
+TEXT-DECORATION: none;
+}
+A.pn-logo:active {
+BACKGROUND: none; 
+COLOR: #000000;
+FONT-SIZE: 16px; 
+FONT-WEIGHT: bold; 
+FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+LETTER-SPACING: 3px; 
+TEXT-DECORATION: none;
+}
+.pn-pagetitle {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 14px; 
+font-weight : bolder; 
+color : #000000;
+}
+.pn-pagetitle a:link {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+color : #000000; 
+text-decoration : underline; 
+} 
+.pn-pagetitle a:visited {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+color : #000000; 
+text-decoration : underline; 
+} 
+.pn-pagetitle a:hover {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+color : #FF0000;
+background-color : #000000;
+text-decoration : none; 
+} 
+.pn-pagetitle a:active {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 12px;
+background-color : #000000; 
+color : red; 
+text-decoration : none; 
+}
+.pn-title {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+font-weight : bolder;
+color : #FF0000;
+}
+.pn-title a:link {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+color : #000000; 
+text-decoration : underline; 
+} 
+.pn-title a:visited {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+color : #000000; 
+text-decoration : underline; 
+} 
+.pn-title a:hover {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 12px; 
+color : #FF0000;
+background-color : #000000;
+text-decoration : none; 
+} 
+.pn-title a:active {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 12px;
+background-color : #000000; 
+color : red; 
+text-decoration : none; 
+}
+.pn-sub {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+font-weight : normal;
+color : #000000; 
+}
+.pn-sub a:link {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+color : #000000; 
+text-decoration : underline; 
+} 
+.pn-sub a:visited {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+color : #000000; 
+text-decoration : underline; 
+} 
+.pn-sub a:hover {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px; 
+color : #FF0000;
+background-color : #000000;
+text-decoration : none; 
+} 
+.pn-sub a:active {
+font-family : Verdana, Arial, Helvetica, sans-serif; 
+font-size : 10px;
+background-color : #000000; 
+color : red; 
+text-decoration : none; 
+}

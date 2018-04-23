@@ -1,0 +1,194 @@
+/* We start by declaring standard styles */
+
+body {
+     color: #000000;
+     background-color: #FFFFCC;
+     scrollbar-face-color: #FFCF00; 
+     scrollbar-arrow-color: #000000;
+     scrollbar-track-color: #FFCF63;
+     scrollbar-shadow-color: #000000;
+}
+
+p {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : normal;
+  color : #000000;
+  background-color: transparent;
+}
+
+a:link {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : normal;
+  color : #0066cc;
+  text-decoration : underline;
+  background-color: transparent;
+}
+
+
+a:visited {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : normal;
+  color : #0066cc;
+  text-decoration : underline;
+  background-color: transparent;
+}
+
+
+a:hover {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : normal;
+  color : #0066cc;
+  text-decoration : none;
+  background-color: transparent;
+}
+
+
+td {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : normal;
+  color : #000000;
+  background-color: transparent;
+}
+
+div {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : normal;
+  color : #000000;
+  background-color: transparent;
+}
+
+
+/* Now we begin to define some of our own styles */
+
+.forms {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : normal;
+  color : #000000;
+  background-color: transparent;
+}
+
+.orange {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : normal;
+  color : #000000;
+  background-color: transparent;
+  border-collapse: collapse;
+  border: 1px solid #FF9A00;
+}
+
+.orange-head {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : bold;
+  color : #000000;
+  background-color: #FFCF63;
+  border-collapse: collapse;
+  border: 1px solid #FF9A00;
+}
+
+.orange-main {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : normal;
+  color : #000000;
+  background-color: transparent;
+  border-collapse: collapse;
+  border: 1px solid #FF9A00;
+}
+
+.titel {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 12px;
+  font-weight : bold;
+  color : #ff9900;
+  background-color: transparent;
+}
+
+
+.titel2 {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : bold;
+  color : #000000;
+  background-color: transparent;
+}
+
+
+.titel3 {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 12px;
+  font-weight : bold;
+  color : #000000;
+  background-color: transparent;
+}
+
+
+.titel4 {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 12px;
+  font-weight : bold;
+  color : #ff9900;
+  background-color: transparent;
+}
+
+
+.intro {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 12px;
+  font-weight : normal;
+  color : #0099cc;
+  background-color: transparent;
+}
+
+
+.titelkl {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 12px;
+  font-weight : bold;
+  color : #ff6633;
+  background-color: transparent;
+}
+
+
+.titelkl2 {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 12px;
+  font-weight : normal;
+  color : #ff6633;
+  background-color: transparent;
+}
+
+.titelkl3 {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 12px;
+  font-weight : normal;
+  color : #000000;
+  background-color: transparent;
+}
+
+
+
+.klein {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : normal;
+  color : #000000;
+  background-color: transparent;
+}
+
+
+.klein2 {
+  font-family : Verdana, Arial, Helvetica, sans-serif;
+  font-size : 11px;
+  font-weight : normal;
+  color : #6699ff;
+  background-color: transparent;
+}

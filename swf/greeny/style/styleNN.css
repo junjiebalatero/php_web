@@ -1,0 +1,69 @@
+FONT, TD, BODY, P, DIV, INPUT, TEXTAREA, FORM 
+{font-family: Verdana,Arial,Helvetica; 
+font: normal 11px/12px;
+COLOR: #505050;
+LINE-HEIGHT: 15px}
+
+
+
+body { border: 1px #EEEEE; color: #000000; 
+scrollbar-face-color: #7bcead; 
+scrollbar-shadow-color: #FFFFFF; scrollbar-highlight-color: #FFFFFF; scrollbar-3dlight-color: #FFFFFF; 
+scrollbar-darkshadow-color: #FFFFFF; scrollbar-track-color: #FFFFFF; scrollbar-arrow-color: #000000 }
+}
+.catdesc {
+COLOR: #505050; TEXT-DECORATION: none
+; font: normal 11px/12px Verdana
+; list-style-type: none
+; LINE-HEIGHT: 15px;
+}
+.infoa {
+COLOR: white; TEXT-DECORATION: none
+; font: normal 11px/12px Verdana
+; list-style-type: none
+; LINE-HEIGHT: 15px;
+}
+A.menu {
+FONT-SIZE: 8px
+; COLOR: 333333
+; LINE-HEIGHT: 12px
+; FONT-FAMILY: Vedrana
+; font-weight: bold
+; TEXT-DECORATION: none
+}
+A.menu:hover {
+COLOR: #BCBC7A
+; CURSOR: hand
+; FONT-SIZE: 12px
+; LINE-HEIGHT: 12px
+; font-weight: bold
+; FONT-FAMILY: Vedrana
+; TEXT-DECORATION: none
+}
+A.info {
+FONT-SIZE: 10px
+; COLOR: white
+; LINE-HEIGHT: 12px
+; FONT-FAMILY: Vedrana
+; font-weight: bold
+; TEXT-DECORATION: none
+}
+A.info:hover {
+COLOR: #BCBC7A
+; CURSOR: hand
+; FONT-SIZE: 9px
+; LINE-HEIGHT: 12px
+; font-weight: bold
+; FONT-FAMILY: Vedrana
+; TEXT-DECORATION: none
+}
+
+A { 
+COLOR: #505050
+; CURSOR: hand
+; font: normal 11px/12px Verdana
+; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: green; TEXT-DECORATION: none
+}

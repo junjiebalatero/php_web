@@ -1,0 +1,18 @@
+BODY {
+	FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: arial, helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: arial, helvetica, sans-serif
+}
+A:link {
+	COLOR: black; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: black; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: black; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #AEAE00; TEXT-DECORATION: none
+}

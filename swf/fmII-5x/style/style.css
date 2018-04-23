@@ -1,0 +1,64 @@
+body {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : xx-small;
+    color : #000000;
+    background-color : #ffffff;
+    margin-top : 0;
+    margin-right : 0;
+    margin-bottom : 0;
+    margin-left : 0;
+    padding-top : 0;
+    padding-right : 0;
+    padding-bottom : 0;
+    padding-left : 0;
+}
+
+FONT, TD, P, DIV, INPUT, TEXTAREA, FORM {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; }
+
+a:link {font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 11px;color : #A52A2A; text-decoration : none; } 
+
+a:active {font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 11px;  color : #A52A2A;  text-decoration : none;  } 
+
+a:hover {font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 11px;color : #A52A2A;  text-decoration : none; } 
+
+a:visited {font-family : Verdana, Geneva, Arial, Helvetica, sans-serif; font-size : 11px;color : #A52A2A;text-decoration : none; }
+
+.headertop {font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; font-style : normal; color : #333366; background-color : #FFFFFF; } 
+
+.headerline {background-color : #6F6F6F; height : 2px; width : 100%; } 
+
+.date {font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; font-weight : normal; color : #000000;} 
+
+.headertabledate {height : 68px; width : 100%; } 
+
+.headerform {font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 11px; font-style : normal; font-weight : normal; color : #000000; vertical-align : middle;} 
+
+.tiretvertical {background-image : url(blackdot.gif); background-repeat : repeat-y; background-position : 50% 0%; } 
+
+.boxback1 {background-color : #DDDDDD; } 
+
+.newsline {background-image : url(line-news.gif); background-repeat : repeat-x; background-position : 0% 50%; height : 10px; width : 100%; } 
+
+.newstitle {font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 14px; font-weight : bolder; color : #663333; text-decoration : underline; text-align : left; vertical-align : middle; } 
+
+.tiretright {background-image : url(themes/fmII-5x/images/blackdot.gif); background-repeat : repeat-y; background-position : 100% 0%; } 
+
+.newstexte {font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 11px; font-style : normal; font-weight : normal; }
+
+.newstex2 {font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 11px; font-style : italic; font-weight : normal; }
+
+.menu {font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 11px; font-style : normal; font-weight : bold; color : #ffffff; text-decoration : none; } 
+
+.copyright {font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; font-style : normal; font-weight : normal; text-decoration : none; } 
+
+.boxtitle {font-family : Verdana, Arial, Helvetica, sans-serif; font-weight : bolder; color : #000000; text-decoration : underline overline; font-size : 12px; } 
+
+.boxtexte {font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 11px; font-style : normal; font-weight : normal; color : #000000; text-decoration : none; } 
+
+.osdn_banner {
+    color: #000000;
+    background-color: #DDDDDD;
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 10px;
+}
+.blackright {  background-image: url(themes/fmII-5x/images/blackdot.gif); background-repeat: repeat-x}

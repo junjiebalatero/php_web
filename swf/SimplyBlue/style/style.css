@@ -1,0 +1,202 @@
+FONT, BODY, P, DIV, INPUT, TEXTAREA, FORM {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+TD, TR, TH {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+.box-top {
+	background-image : url(/themes/SimplyBlue/images/table/box-top.gif);
+	background-repeat : no-repeat;
+	font-size : 9pt;
+	font-weight : bold;
+}
+
+.box-middle {
+	background-image : url(/themes/SimplyBlue/images/table/box-middle.gif);
+	background-repeat : repeat-y;
+	font-size : 9pt;
+	padding-left : 4px;
+	padding-right : 4px;
+}
+
+.box-bottom {
+	background-image : url(/themes/SimplyBlue/images/table/box-bottom.gif);
+	background-repeat : no-repeat;
+}
+
+.table-top-left {
+	background-image : url(/themes/SimplyBlue/images/table/table-top-left.gif);
+	background-repeat : no-repeat;
+}
+
+.table-top-center {
+	background-image : url(/themes/SimplyBlue/images/table/table-top-center.gif);
+	background-repeat : repeat-x;
+}
+
+.table-top-right {
+	background-image : url(/themes/SimplyBlue/images/table/table-top-right.gif);
+	background-repeat : no-repeat;
+}
+
+.article-top-left {
+	background-image : url(/themes/SimplyBlue/images/table/article-top-left.gif);
+	background-repeat : repeat-y;
+}
+
+.article-top-center {
+	background-image : url(/themes/SimplyBlue/images/table/article-top-center.gif);
+	background-repeat : repeat-x;
+	font-size : 9pt;
+	font-weight : bold;
+}
+
+.article-top-right {
+	background-image : url(/themes/SimplyBlue/images/table/article-top-right.gif);
+	background-repeat : repeat-y;
+}
+
+.article-middle-left {
+	background-image : url(/themes/SimplyBlue/images/table/article-middle-left.gif);
+	background-repeat : repeat-y;
+}
+
+.article-middle-center {
+	background-image : url(/themes/SimplyBlue/images/table/article-middle-center.gif);
+	background-repeat : repeat;
+}
+
+.article-middle-center-posted {
+	background-image : url(/themes/SimplyBlue/images/table/article-middle-center.gif);
+	background-repeat : repeat;
+	font-size : 11px;
+	font-weight : bold;
+}
+
+.article-middle-right {
+	background-image : url(/themes/SimplyBlue/images/table/article-middle-right.gif);
+	background-repeat : repeat-y;
+}
+
+.article-bottom-left {
+	background-image : url(/themes/SimplyBlue/images/table/article-bottom-left.gif);
+	background-repeat : no-repeat;
+}
+
+.article-bottom-center {
+	background-image : url(/themes/SimplyBlue/images/table/article-bottom-center.gif);
+	background-repeat : repeat-x;
+}
+
+.article-bottom-right {
+	background-image : url(/themes/SimplyBlue/images/table/article-bottom-right.gif);
+	background-repeat : no-repeat;
+}
+
+.header-bottom-back-search {
+	background-image : url(/themes/SimplyBlue/images/table/header-bottom-back.gif);
+	background-repeat : repeat-x;
+	padding-top: 1px;
+}
+
+.header-bottom-back-date {
+	background-image : url(/themes/SimplyBlue/images/table/header-bottom-back.gif);
+	background-repeat : repeat-x;
+	font-size : 9pt;
+	font-weight : bold;
+	padding-bottom: 7px;
+}
+
+.header-left-center {
+	background-image : url(/themes/SimplyBlue/images/table/header-left-center.gif);
+	background-repeat : no-repeat;
+}
+
+.header-right-center {
+	background-image : url(/themes/SimplyBlue/images/table/header-right-center.gif);
+	background-repeat : no-repeat;
+}
+
+.header-top-back {
+	background-image : url(/themes/SimplyBlue/images/table/header-top-back.gif);
+	background-repeat : repeat-x;
+	font-size : 9pt;
+	font-weight : bold;
+}
+
+.footer-bottom-back {
+	background-image : url(/themes/SimplyBlue/images/table/footer-bottom-back.gif);
+	background-repeat : repeat-x;
+}
+
+.footer-left-center {
+	background-image : url(/themes/SimplyBlue/images/table/footer-left-center.gif);
+	background-repeat : no-repeat;
+}
+
+.footer-right-center {
+	background-image : url(/themes/SimplyBlue/images/table/footer-right-center.gif);
+	background-repeat : no-repeat;
+}
+
+.footer-top-back {
+	background-image : url(/themes/SimplyBlue/images/table/footer-top-back.gif);
+	background-repeat : repeat-x;
+	font-size : 11px;
+	font-weight : bold;
+}
+
+.title {
+	font-size : 9pt;
+	font-weight : bold;
+}
+
+.content {
+	font-size : 9pt;
+	padding-left : 4px;
+	padding-right : 4px;
+}
+	
+.posted {
+	font-size : 11px;
+	font-weight : bold;
+}
+
+.topbar {
+	font-size : 11px;
+	font-weight : bold;
+}
+
+BODY {
+	background-color : #6699CC;
+	color : #FFFFFF;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-top : 0px;
+	padding-top : 0; 
+	padding-right : 0; 
+	padding-bottom : 0; 
+	padding-left : 0; 
+}
+
+A:link {
+	text-decoration: none;
+	color: #00008B;
+	background-color : transparent;
+}
+ 
+A:visited {
+	color: #00008B;
+	text-decoration : none;
+	background-color : transparent;
+}
+ 
+A:hover {
+	text-decoration: underline overline;
+	color: #99CCFF;
+	background-color : transparent;
+}

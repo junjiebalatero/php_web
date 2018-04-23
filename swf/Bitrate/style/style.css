@@ -1,0 +1,21 @@
+FONT		{FONT-FAMILY: geneva,arial,Verdana,Helvetica; FONT-SIZE: 10px; COLOR: #8C7952}
+TD		{FONT-FAMILY: geneva,arial,Verdana,Helvetica; FONT-SIZE: 10px; COLOR: #8C7952}
+BODY		{FONT-FAMILY: geneva,arial,Verdana,Helvetica; FONT-SIZE: 10px; COLOR: #8C7952}
+P		{FONT-FAMILY: geneva,arial,Verdana,Helvetica; FONT-SIZE: 10px; COLOR: #8C7952}
+DIV		{FONT-FAMILY: geneva,arial,Verdana,Helvetica; FONT-SIZE: 10px; COLOR: #8C7952}
+INPUT		{FONT-FAMILY: geneva,arial,Verdana,Helvetica; FONT-SIZE: 10px; COLOR: #8C7952}
+TEXTAREA	{FONT-FAMILY: geneva,arial,Verdana,Helvetica; FONT-SIZE: 10px; COLOR: #8C7952}
+FORM 		{FONT-FAMILY: geneva,arial,Verdana,Helvetica; FONT-SIZE: 10px; COLOR: #8C7952}
+SELECT		{FONT-FAMILY: geneva,arial,Verdana,Helvetica; FONT-SIZE: 10px; COLOR: #8C7952}
+A:link          {BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-FAMILY: geneva,arial,Verdana,Helvetica; TEXT-DECORATION: underline}
+A:active        {BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-FAMILY: geneva,arial,Verdana,Helvetica; TEXT-DECORATION: underline}
+A:visited       {BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-FAMILY: geneva,arial,Verdana,Helvetica; TEXT-DECORATION: underline}
+A:hover         {BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-FAMILY: geneva,arial,Verdana,Helvetica; TEXT-DECORATION: underline}
+.title 		{BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-WEIGHT: bold; FONT-FAMILY: geneva,arial,Verdana,Helvetica; TEXT-DECORATION: none}
+.content 	{BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-FAMILY: geneva,arial,Verdana,Helvetica}
+.storytitle 	{BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-WEIGHT: bold; FONT-FAMILY: geneva,arial,Verdana,Helvetica; TEXT-DECORATION: none}
+.storycat	{BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-WEIGHT: bold; FONT-FAMILY: geneva,arial,Verdana,Helvetica; TEXT-DECORATION: underline}
+.boxtitle 	{BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-WEIGHT: bold; FONT-FAMILY: geneva,arial,Verdana,Helvetica; TEXT-DECORATION: none}
+.boxcontent 	{BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Helvetica}
+.option 	{BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-WEIGHT: bold; FONT-FAMILY: geneva,arial,Verdana,Helvetica; TEXT-DECORATION: none}
+.tiny		{BACKGROUND: none; COLOR: #8C7952; FONT-SIZE: 10px; FONT-WEIGHT: normal; FONT-FAMILY: geneva,arial,Verdana,Helvetica; TEXT-DECORATION: none}

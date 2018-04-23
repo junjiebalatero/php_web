@@ -1,0 +1,50 @@
+/************************************************************************/
+/*             malaysianPHPNuker oleh budakdegil                        */
+/*                   http://phpnuke.org.kg                              */
+/************************************************************************/
+/* phpnuke.org.kg - theme untuk PHPNuke 5.0beta4                        */
+/* =============================================                        */
+/*                                                                      */
+/* Skrip Sumber Terbuka(OpenSource) oleh budakdegil                     */
+/* http://phpnuke.org.kg                                                */
+/*                                                                      */
+/* Kod Asal Oleh: http://www.TheBix.Com					*/
+/* Pengubahsuaian pertama oleh: http://www.babylone6tem.com/~kodred     */
+/*									*/
+/************************************************************************/
+
+
+Pendahuluan: 
+============
+Nama Theme - malaysianPHPNuker v0.0.7 
+
+Theme ini sesuai dan telah digunakan pada PHPNuke5beta4
+Disesuaikan untuk paparan menggunakan pelayar IE 5.0 dan keatas
+
+theme ini bukanlah saya bangunkan sendiri dari scratch, tetapi ianya hasil daripada pengubahsuaian Theme asal Thebix-> K-Bix-iceberg
+
+Contoh penggunaan theme ini boleh dilihat pada http://phpnuke.org.kg
+
+
+Fail² yang diperlukan:
+======================
+/baca_saya_dulu.txt - Informasi mengenai pemasangan dan maklumat Hakcipta Asal
+themes/malaysianPHPNuker/theme.php - Fail Utama theme
+themes/malaysianPHPNuker/imej/ - Fail² Imej untuk theme ini
+themes/malaysianPHPNuker/stail/ - Style Sheet untuk theme ini
+
+
+Pemasangan(Installation):
+=========================
+Unzip file menggunakan winzip
+Kalau takde winzip, gi download secara percuma kat http://www.winzip.com
+
+
+Selamat Mencuba!
+
+
+budakdegil
+======================
+webmaster@phpnuke.org.kg
+http://phpnuke.org.kg
+======================

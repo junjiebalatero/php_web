@@ -1,0 +1,19 @@
+0.4.
+- modified the "Explore:" $topics code
+
+0.3.
+- removed some graphics
+- removed a table cell
+- added a scrollbar tag under the style.css
+- cleaned the code a bit
+- now you can see how many times an article has been read
+- moved the $morelink stuff to center
+- it is on the road to become HTML 4.01 transitional
+
+0.2.
+- stripped some graphic
+- code has been modified so it is now more compatible
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Phiber, Xatrix Security
+http://www.xatrix.org

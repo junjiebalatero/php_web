@@ -1,0 +1,30 @@
+FONT, TD, BODY, P, DIV, INPUT, TEXTAREA, FORM 
+{font-family: Verdana,Arial,Helvetica; 
+font: normal 11px/12px;
+COLOR: #505050;
+LINE-HEIGHT: 15px}
+
+
+
+body { color: #000000; 
+scrollbar-face-color: #CCCCCC; 
+scrollbar-shadow-color: #FFFFFF; scrollbar-highlight-color: #FFFFFF; scrollbar-3dlight-color: #FFFFFF; 
+scrollbar-darkshadow-color: #FFFFFF; scrollbar-track-color: #FFFFFF; scrollbar-arrow-color: #000000 }
+}
+.infoa {
+COLOR: white; TEXT-DECORATION: none
+; font: normal 11px/12px Verdana
+; list-style-type: none
+; LINE-HEIGHT: 15px;
+}
+
+
+A { 
+COLOR: #505050
+; CURSOR: hand
+; font: normal 11px/12px Verdana
+; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: red; TEXT-DECORATION: underline overline
+}

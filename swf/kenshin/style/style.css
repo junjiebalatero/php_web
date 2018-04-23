@@ -1,0 +1,51 @@
+
+}
+.catdesc {
+COLOR: #000000; TEXT-DECORATION: none
+; font: normal 9pt Arial, Helvetica, sans-serif
+; list-style-type: none
+;
+}
+A.menu {
+FONT-SIZE: 9px
+; COLOR: 333333
+; FONT-FAMILY: Vedrana
+; font-weight: bold
+; TEXT-DECORATION: none
+}
+A.menu:hover {
+COLOR: #BCBC7A
+; CURSOR: hand
+; FONT-SIZE: 9px
+; font-weight: bold
+; FONT-FAMILY: Vedrana
+; TEXT-DECORATION: none
+}
+A.info {
+FONT-SIZE: 10px
+; COLOR: white
+; FONT-FAMILY: Vedrana
+; font-weight: bold
+; TEXT-DECORATION: none
+}
+A.info:hover {
+COLOR: #BCBC7A
+; CURSOR: hand
+; FONT-SIZE: 9px
+; font-weight: bold
+; FONT-FAMILY: Vedrana
+; TEXT-DECORATION: none
+}
+
+A { 
+COLOR: #505050
+; CURSOR: hand
+; font: normal 11px Verdana
+; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: navy; TEXT-DECORATION: underline
+}
+.topico {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #FFFFFF; background-color: #000000; font-weight: bold}
+.topicotitulo { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #FFFFFF; font-weight: bold}
+table {  border: #000000; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}

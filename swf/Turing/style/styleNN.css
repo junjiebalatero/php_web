@@ -1,0 +1,38 @@
+BODY  { BACKGROUND: #6C6A7C; COLOR: #FFBB00; FONT-FAMILY: Tahoma, Verdana, sans-serif; MARGIN-TOP: 0; MARGIN-LEFT: 0; MARGIN-RIGHT: 0; MARGIN-BOTTOM: 0}
+
+A:link            {BACKGROUND: none; COLOR: #FF9900;FONT: 13px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A:active          {BACKGROUND: none; COLOR: #FFFF00;FONT:13px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A:visited         {BACKGROUND: none; COLOR: #FF6600;FONT: 13px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A:hover           {BACKGROUND: none; COLOR: #FFFF00;FONT: 13px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-title	 {BACKGROUND: none; COLOR: #FFBB00;FONT: bold 14px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-title:active	{BACKGROUND: none; COLOR: #FFFF00;FONT: bold 14px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-title:visited	{BACKGROUND: none; COLOR: #FF6600;FONT: bold 14px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-title:hover	{BACKGROUND: none; COLOR: #FFFF00;FONT: bold 14px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-normal:link	 {BACKGROUND: none; COLOR: #FF9900;FONT: 13px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-normal:active	 {BACKGROUND: none; COLOR: #FFFF00;FONT: 13px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-normal:visited	 {BACKGROUND: none; COLOR: #FF6600;FONT: 13px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-normal:hover	 {BACKGROUND: none; COLOR: #FFFF00;FONT: 13px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-sub:link	 {BACKGROUND: none; COLOR: #FF9900;FONT: 11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-sub:active	 {BACKGROUND: none; COLOR: #FFFF00;FONT: 11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-sub:visited	 {BACKGROUND: none; COLOR: #FF6600;FONT: 11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-sub:hover	 {BACKGROUND: none; COLOR: #FFFF00;FONT: 11px Tahoma, Verdana, sans-serif; TEXT-DECORATION: underline}
+A.pn-logo:link				{BACKGROUND: none; COLOR: #FF9900; FONT-SIZE: 18px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; TEXT-DECORATION: none}
+A.pn-logo:active			{BACKGROUND: none; COLOR: #FFFF00; FONT-SIZE: 18px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; TEXT-DECORATION: none}
+A.pn-logo:visited			{BACKGROUND: none; COLOR: #FF6600; FONT-SIZE: 18px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; TEXT-DECORATION: none}
+A.pn-logo:hover			{BACKGROUND: none; COLOR: #FFFF00; FONT-SIZE: 18px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; TEXT-DECORATION: none}
+
+.pn-logo {BACKGROUND: none; COLOR: #FFBB00; FONT-SIZE: 18px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; TEXT-DECORATION: none}
+.pn-logo-small  {BACKGROUND: none; COLOR: #FFBB00; FONT-SIZE: 13px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma, Verdana, sans-serif; TEXT-DECORATION: none}
+.pn-pagetitle     {BACKGROUND: none; COLOR: #FFBB00;FONT: bold 14px Tahoma, Verdana, sans-serif;TEXT-DECORATION: none}
+.pn-title           {BACKGROUND: none; COLOR: #FFBB00;FONT: bold 14px Tahoma, Verdana, sans-serif;TEXT-DECORATION: none}
+.pn-storytitle   {BACKGROUND: none; COLOR: #FFBB00;FONT: bold 14px Tahoma, Verdana, sans-serif; LETTER-SPACING: 3px;TEXT-DECORATION: none}
+.pn-normal      {BACKGROUND: none; COLOR: #FFBB00;FONT: 13px Tahoma, Verdana, sans-serif;TEXT-DECORATION: none}
+.pn-sub           {BACKGROUND: none; COLOR: #999999;FONT: 11px Tahoma, Verdana, sans-serif;TEXT-DECORATION: none}
+
+TD.pn-normal	{BACKGROUND: none; COLOR: #FFBB00;FONT: 13px Tahoma, Verdana, sans-serif;TEXT-DECORATION: none}
+TD.pn-title	{BACKGROUND: none; COLOR: #FFBB00;FONT: bold 14px Tahoma, Verdana, sans-serif;TEXT-DECORATION: none}
+INPUT.pn-text	{BACKGROUND: #444490; COLOR: #FFBB00; BORDER: solid 1px #B6CCE1; FONT-SIZE: 10px}
+INPUT.r-button	{BACKGROUND: #28224C; COLOR: #FFBB00; FONT-SIZE: 12px}
+INPUT.pn-button {BACKGROUND: #444490; COLOR: #FFBB00; BORDER: 1px solid #B6CCE1; FONT-SIZE: 13px; border-collapse: collapse}
+TEXTAREA.pn-text	{BACKGROUND: #333366; COLOR: #FFBB00; BORDER: solid 1px #B6CCE1; FONT-SIZE: 12px; border-bottom: 1px dashed}
+SELECT.pn-text	{BACKGROUND: #444490; COLOR: #FFBB00; BORDER: solid 1px #B6CCE1; FONT-SIZE: 12px}

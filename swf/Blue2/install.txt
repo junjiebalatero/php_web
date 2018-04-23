@@ -1,0 +1,40 @@
+# Blue2 Theme for PHP-Nuke 5
+# 28/06/2001
+#
+# See it in action at http://bobmarion.hostbet.com
+# Must register to select any of the themes
+#
+# Release under GPL
+# for others release :
+# http://bobmarion.hostbet.com
+
+1. Introduction and Requirements
+--------------------------------
+Blue2 is a phpnuke Theme.
+It requires phpnuke 5.0 installed 
+
+
+2. Installation
+---------------
+Extract archive to temp dir and copy included as noted below:
+-------------------------------------------------------------
+themes/Blue2/install.txt (do not upload, instructions only)
+themes/Blue2/theme1.php -----------> themes/Blue2/theme1.php
+themes/Blue2/theme2.php -----------> themes/Blue2/theme2.php
+themes/Blue2/theme3.php -----------> themes/Blue2/theme3.php
+themes/Blue2/images/*.* -----------> themes/Blue2/images/*.*
+themes/Blue2/style/*.* ------------> themes/Blue2/style/*.*
+
+
+3. Use
+------
+The theme*.php files are as follows and the one you want to use should be renamed
+to theme.php:
+theme1.php --> Ignores the $index setting and displays left and right blocks
+theme2.php --> Diplays left blocks if $index is set to 0(zero), both if set to 1
+theme3.php --> Diplays right blocks if $index is set to 0(zero), both if set to 1
+
+Blue2 is released under GPL license, you can modify, use or ditribute this freely.
+
+
+Bob Marion (bobmarion@bobmarion.hostbet.com)

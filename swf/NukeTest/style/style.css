@@ -1,0 +1,60 @@
+//* this for control : 1. info blocks *//
+//*....................2. Vote text   *//
+//*....................3. Login text  *//
+
+INPUT,TD,P,FORM{font-family: Verdana;font-size:11;font-weight:bold;color:#666666}
+
+/* this for control fonts .............* /
+                                           
+
+INPUT,textarea,div{font-family: verdana ;font-size:11;font-weight:bold;color:#ffffff}
+
+
+/* this for control the fonts of the article or news text */
+
+FONT {font-family: Verdana;font-size:11;font-weight:normal;color:#333333}
+
+/* this for control the date and welcome on the bue line bar */
+
+.common_text_white_date {font-family: Verdana;font-size:11;font-weight:normal;color:#ffffff}
+
+/* this for control the text field search*/
+.textfield {  font-family: Arial, Helvetica, sans-serif; font-size: 11px;font-weight:normal; color: #333333; border: #333333; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+
+/* this for control the .............*/
+.button { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight:normal; color: #333333}
+.list {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight:normal; color: #000000; background-color: #ffffff}
+
+/* this for change the fonts of title blocks and date*/
+
+.common_text_white{font-family:Verdana;font-size:11;font-weight:bold;color:#ffffff}
+
+
+/* this for control the fonts of menu on the blue line bar */
+
+A.arial_hover_underline:link{font-family:Verdana;font-size:11;font-weight:bold;color:#ffffff;text-decoration:none}
+A.arial_hover_underline:active{font-family:Verdana;font-size:11;font-weight:bold;color:#ffffff;text-decoration:none}
+A.arial_hover_underline:visited{font-family:Verdana;font-size:11;font-weight:bold;color:#ffffff;text-decoration:none}
+A.arial_hover_underline:hover{font-family:Verdana;font-size:11;font-weight:bold;color:#ffcc00;text-decoration:none}
+
+/* this for control fonts of ( "search nuke sites", "links" and "catagories on our database" ) */  
+
+.common_text_black{font-family:Verdana;font-size:11;font-weight:normal;color:#000000}
+
+
+/*this for control..........*/
+
+.common_text_space_5{font-family:Verdana;font-size:11;font-weight:normal;color:#ffffff;letter-spacing:5px}
+.common_text_space_1{font-family:verdana;font-size:11;font-weight:normal;color:#ffffff;letter-spacing:1px}
+
+/*this for control the titel of articles or news*/
+
+.common_text_blue{font-family:Verdana;font-size:12;font-weight:bold;color:#0066cc}
+.style_berita {font-family:Verdana;font-size:11;font-weight:normal;color:#000000}
+
+/* this for control the fonts of submit nuke sites */
+
+A.arial_hover_normal:link{font-family:Verdana;font-size:10;font-weight:normal;color:#000000;text-decoration:underline}
+A.arial_hover_normal:active{font-family:Verdana;font-size:10;font-weight:normal;color:#000000;text-decoration:underline}
+A.arial_hover_normal:visited{font-family:Verdana;font-size:10;font-weight:normal;color:#000000;text-decoration:underline}
+A.arial_hover_normal:hover{font-family:Verdana;font-size:10;font-weight:normal;color:#000000;text-decoration:none}
